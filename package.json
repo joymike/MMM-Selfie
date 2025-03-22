@@ -1,0 +1,17 @@
+{
+    "name": "MMM-Selfie",
+    "version": "1.0.0",
+    "description": "A Magic Mirror module to display real-time camera feed",
+    "main": "MMM-Selfie.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "magic mirror",
+        "camera",
+        "selfie"
+    ],
+    "author": "",
+    "license": "MIT",
+    "dependencies": {}
+} 
